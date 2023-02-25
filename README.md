@@ -7,7 +7,13 @@
 ## 🙋‍♂️ About Me
 
 😉 I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
-👨‍💻Currently working on web application development and android develpment <br>
+
+## 🧑‍💻Currently Working On : 
+
+• Web application development<br/>
+• Android App Development <br/>
+• ITP Project in 2nd Year
+
 
 
 ## 🌐 Socials:
