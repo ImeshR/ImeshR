@@ -40,10 +40,6 @@ Student Name : Ranawaka W.E.I.
     </a>
   </p>
 </p>
-<!-- <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImeshR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/ImeshR/github-readme-stats"><img alt="ImeshR's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshR&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a> -->
-  <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Eshan Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImeshR&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=000000" /></a>
-  <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Eshan Imesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshR&langs_count=20&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=000000" /></a>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ImeshR&icon=8&color=1)](https://visitcount.itsvg.in)
