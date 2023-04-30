@@ -42,7 +42,7 @@ Student Name : Ranawaka W.E.I.
 </p>
 <p align="center">
   <p align="center">
-      <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Eshan Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImeshR&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true" /></a>
+      <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Eshan Imesh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ImeshR&theme=react&hide_border=true&bg_color=000000&include_all_commits=false&count_private=false" /></a>
   <a href="https://github.com/ImeshR/github-readme-stats"><img alt="Eshan Imesh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImeshR&theme=react&hide_border=true&bg_color=000000&include_all_commits=true&count_private=true&layout=compact" /></a>
   </p>
 </p>
