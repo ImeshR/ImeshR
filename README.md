@@ -4,8 +4,6 @@
  </a>
 </p>
 
-
-
 ## 🙋‍♂️ About Me
 
 😉 I'm currently an undergraduate IT student at SLIIT(2nd year) <br>
