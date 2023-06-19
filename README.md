@@ -12,9 +12,6 @@
 ## 🧑‍💻Currently Working On : 
 
 • Web application development<br/>
-• Android App Development <br/>
-• ITP Project in 2nd Year
-
 
 
 ## 🌐 Socials:
