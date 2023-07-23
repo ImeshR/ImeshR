@@ -22,7 +22,7 @@
 ```
 Academic
 
-Student IT : IT21233562
+Student ID : IT21233562
 Student Name : Ranawaka W.E.I.
 ```
 </p>
