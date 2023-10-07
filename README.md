@@ -15,7 +15,10 @@
 • Personal Project<br/>
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/w.eshan.ranawaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/eshan-imesh-17a642215/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/w.eshan.ranawaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/eshan-imesh-17a642215)</br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eshan-imesh-17a642215" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/eshan-imesh-17a642215?trk=profile-badge">Eshan Imesh</a></div>
+              
+
 
 <p align="center">
 
