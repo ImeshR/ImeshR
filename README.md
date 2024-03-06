@@ -30,7 +30,7 @@ Student Name : Ranawaka W.E.I.
 # 💻 Tech Stack:
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,mongodb,express,react,nodejs,nextjs,nestjs,ts,angular,spring,tailwind,bootstrap,firebase,kotlin,androidstudio,figma,git,postgres,postman,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,mongodb,express,react,nodejs,nextjs,nestjs,ts,angular,spring,tailwind,bootstrap,firebase,kotlin,androidstudio,figma,git,postgres,postman,vscode,webstorm,idea," />
   </a>
 </p>
 
