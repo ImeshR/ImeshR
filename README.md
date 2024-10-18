@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-😉 Software Engineering undergraduate  at SLIIT  ( 3rd year ) <br>
+😉 Software Engineering undergraduate  at SLIIT  ( 4th year ) <br>
 
 ## 🧑‍💻Currently Working On : 
 
