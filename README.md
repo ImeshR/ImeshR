@@ -17,20 +17,10 @@
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/w.eshan.ranawaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/eshan-imesh-17a642215)</br>          
 
-<p align="center">
-
-```
-Academic
-
-Student ID : IT21233562
-Student Name : Ranawaka W.E.I.
-```
-</p>
-
 # 💻 Tech Stack:
 <p align="center">
   <a href="">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,mongodb,express,react,nodejs,nextjs,nestjs,ts,angular,spring,tailwind,bootstrap,firebase,kotlin,androidstudio,figma,git,postgres,postman,vscode,webstorm,idea," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql,mongodb,dynamodb,express,react,nodejs,nextjs,nestjs,ts,angular,spring,tailwind,bootstrap,firebase,kotlin,androidstudio,figma,git,bitbucket,postgres,postman,vscode,webstorm,idea,aws" />
   </a>
 </p>
 
