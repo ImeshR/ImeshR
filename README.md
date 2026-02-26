@@ -7,12 +7,12 @@
 
 ## 🙋‍♂️ About Me
 
-😉 Software Engineering undergraduate  at SLIIT  ( 4th year ) <br>
+😉 Software Engineer  graduate  at SLIIT <br>
 
 ## 🧑‍💻Currently Working On : 
 
 • Web application development<br/>
-• Personal Project<br/>
+• Personal Projects<br/>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/w.eshan.ranawaka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://lk.linkedin.com/in/eshan-imesh-17a642215)</br>          
