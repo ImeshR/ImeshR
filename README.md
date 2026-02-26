@@ -42,6 +42,5 @@
 </p>
 
 ---
-![Visitor Count](https://profile-counter.glitch.me/ImeshR/count.svg)
 
 
